@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TodoByFetch/static/css/main.9ac209ef.css",
+    "main.js": "/TodoByFetch/static/js/main.28468b4a.js",
+    "index.html": "/TodoByFetch/index.html",
+    "static/media/todo_logo.svg": "/TodoByFetch/static/media/todo_logo.267734def6f3e16379cb5a1b30bb03c7.svg",
+    "main.9ac209ef.css.map": "/TodoByFetch/static/css/main.9ac209ef.css.map",
+    "main.28468b4a.js.map": "/TodoByFetch/static/js/main.28468b4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac209ef.css",
+    "static/js/main.28468b4a.js"
+  ]
+}
